@@ -13,8 +13,8 @@ export default function Home() {
       title: "Helicopter Yatra - Rishikesh to Kedarnath",
       image: "https://ext.same-assets.com/42986993/4287053519.jpeg",
       description:
-        "Experience the divine journey to Kedarnath in a luxurious and time-saving helicopter ride from Rishikesh. Perfect for pilgrims with limited time.",
-      price: null,
+        "Embark on a spiritual helicopter yatra from Rishikesh to Kedarnath. Begin early morning with a drive to the helipad, followed by a scenic 30-40 minute flight over the Garhwal Himalayas. Upon arrival, proceed for darshan at the Kedarnath Temple. After blessings, return by afternoon. The journey offers divine views, comfort, and saves time for devotees."
+      price: 6999,
       duration: null,
       sale: false,
     },
@@ -22,7 +22,7 @@ export default function Home() {
       id: 2,
       title: "Haridwar to Kedarnath Yatra",
       image: "https://ext.same-assets.com/42986993/4199696306.jpeg",
-      description: "Embark on a spiritual journey from the holy city of Haridwar to the divine Kedarnath temple.",
+      description: "Day 1: Arrive in Haridwar and drive to Sahastradhara helipad in Dehradun. Overnight stay in Dehradun or near helipad. <br> Day 2: Early morning helicopter ride to Kedarnath. Have darshan at the Kedarnath Temple. Explore surroundings. Overnight stay near Kedarnath. <br>Day 3: Return by helicopter to Sahastradhara helipad. Drive back to Haridwar with blessings and unforgettable memories.",
       price: 2899,
       duration: "5 Days / 4 Nights",
       sale: true,
@@ -32,19 +32,19 @@ export default function Home() {
       title: "Char Dham Yatra",
       image: "https://ext.same-assets.com/42986993/273543150.jpeg",
       description:
-        "Complete the sacred pilgrimage to all four divine destinations - Yamunotri, Gangotri, Kedarnath, and Badrinath.",
-      price: 2999,
+        "Day 1:Depart from Rishikesh to Sahastradhara helipad. Fly to Kharsali. Visit Yamunotri Temple. Overnight stay at Kharsali <br> Day 2: Fly to Harsil. Visit Gangotri Temple nestled in the serene Himalayas. Stay overnight at Harsil or Gangotri valley. <br>Day 3: Fly to Kedarnath helipad. Proceed for darshan at the Kedarnath Temple. Overnight stay near Kedarnath.<br>Day 4: Depart to Badrinath. Visit the sacred Badrinath Temple. Attend evening aarti. Overnight stay at Badrinath.<br>Day 5: Local sightseeing at Mana Village (last village of India). Fly back to Sahastradhara helipad, drive to Rishikesh.",
+      price: 15999,
       duration: "12 Days / 11 Nights",
       sale: true,
     },
     {
       id: 4,
-      title: "Kedarnath & Badrinath Yatra",
+      title: "Kedarnath & Badrinath Yatra - Helicopter Yatra",
       image: "https://ext.same-assets.com/42986993/96132912.jpeg",
-      description: "Visit two of the most revered Himalayan shrines in one spiritual journey.",
-      price: 2699,
-      originalPrice: 10000,
-      duration: "7 Days / 6 Nights",
+      description: "The Do Dham Helicopter Yatra from Rishikesh offers a spiritually enriching and time-saving journey to Kedarnath and Badrinath. Begin early morning with a drive to the Sahastradhara helipad. Fly first to Kedarnath for darshan at the revered Shiva temple, then proceed to Badrinath for blessings at the sacred Vishnu shrine. Return the same day, experiencing divine serenity and stunning Himalayan views.",
+      price: 7999,
+      originalPrice: 9999,
+      duration: "5 Days / 4 Nights",
       sale: true,
     },
   ]
@@ -127,7 +127,10 @@ export default function Home() {
                         </div>
                       )}
                       <div className="flex flex-col sm:flex-row gap-4">
-                        <Button variant="outline">View Details</Button>
+                        
+                      <link href="tel:+918757794679">
+                        <Button variant="outline">Call us</Button>
+                      </link>
                         <Link href="https://wa.me/+918757794679" target="_blank" rel="noopener noreferrer">
                           <Button className="w-full bg-green-600 hover:bg-green-700">Contact on WhatsApp</Button>
                         </Link>
