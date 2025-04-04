@@ -128,9 +128,9 @@ export default function Home() {
                       )}
                       <div className="flex flex-col sm:flex-row gap-4">
                         
-                      <link href="tel:+918757794679" target="_blank" rel="noopener noreferrer">
-                        <Button variant="outline">Call us</Button>
-                      </link>
+                      <Link href="tel:+918757794679" target="_blank" rel="noopener noreferrer">
+                          <Button className="w-full bg-blue-600 hover:bg-blue-700">Contact on WhatsApp</Button>
+                        </Link>
                         <Link href="https://wa.me/+918757794679" target="_blank" rel="noopener noreferrer">
                           <Button className="w-full bg-green-600 hover:bg-green-700">Contact on WhatsApp</Button>
                         </Link>
