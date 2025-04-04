@@ -92,9 +92,9 @@ export default function Home() {
                   in the Himalayas. With years of experience, we offer meticulously planned packages that combine
                   spiritual fulfillment with comfortable travel arrangements.
                 </p>
-                 <div class="offer-wrapper">
+                 
                  <div class="offer-sticker">Seasonal Offer!</div>
-                 </div>
+                 
 
               </div>
             </div>
@@ -133,7 +133,7 @@ export default function Home() {
                       <div className="flex flex-col sm:flex-row gap-4">
                         
                       <Link href="tel:+918757794679" target="_blank" rel="noopener noreferrer">
-                          <Button className="w-full bg-blue-600 hover:bg-blue-700">Contact on WhatsApp</Button>
+                          <Button className="w-full bg-blue-600 hover:bg-green-700">Call us</Button>
                         </Link>
                         <Link href="https://wa.me/+918757794679" target="_blank" rel="noopener noreferrer">
                           <Button className="w-full bg-green-600 hover:bg-green-700">Contact on WhatsApp</Button>
