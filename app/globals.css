@@ -93,16 +93,7 @@ body {
   }
 }
 
-body, html {
-      margin: 0;
-      padding: 0;
-      height: 100%;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      background-color: #f9f9f9;
-      font-family: Arial, sans-serif;
-    }
+
 
     .offer-wrapper {
       display: flex;
