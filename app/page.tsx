@@ -60,7 +60,13 @@ export default function Home() {
       <header className="sticky top-0 z-10 bg-white/95 backdrop-blur supports-[backdrop-filter]:bg-white/60 border-b">
         <div className="container flex h-16 items-center justify-between py-4">
           <div className="flex items-center gap-2">
-            <Mountains className="h-6 w-6 text-orange-600" />
+            <Image
+              src="https://github.com/holyyatra/holyatraweb/blob/main/logohy.png?raw=true"
+              alt="Holy Yatra Logo"
+              width={180}
+              height={50}
+              className="h-12 w-auto"
+            />
             <span className="text-xl font-bold">Holy Yatra</span>
           </div>
           <Link
