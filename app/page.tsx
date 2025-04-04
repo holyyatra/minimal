@@ -93,7 +93,7 @@ export default function Home() {
                   spiritual fulfillment with comfortable travel arrangements.
                 </p>
                  
-                 <div class="starburst">Seasonal Offer!</div>
+                 
                  
 
               </div>
