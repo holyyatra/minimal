@@ -22,7 +22,7 @@ export default function Home() {
       id: 2,
       title: "Haridwar to Kedarnath Yatra",
       image: "https://ext.same-assets.com/42986993/4199696306.jpeg",
-      description: "Day 1: Arrive in Haridwar and drive to Sahastradhara helipad in Dehradun. Overnight stay in Dehradun or near helipad. <br> Day 2: Early morning helicopter ride to Kedarnath. Have darshan at the Kedarnath Temple. Explore surroundings. Overnight stay near Kedarnath. <br>Day 3: Return by helicopter to Sahastradhara helipad. Drive back to Haridwar with blessings and unforgettable memories.",
+      description: "Day 1: Arrive in Haridwar and drive to Sahastradhara helipad in Dehradun. Overnight stay in Dehradun or near helipad.  Day 2: Early morning helicopter ride to Kedarnath. Have darshan at the Kedarnath Temple. Explore surroundings. Overnight stay near Kedarnath. Day 3: Return by helicopter to Sahastradhara helipad. Drive back to Haridwar with blessings and unforgettable memories.",
       price: 2899,
       duration: "5 Days / 4 Nights",
       sale: true,
@@ -32,7 +32,7 @@ export default function Home() {
       title: "Char Dham Yatra",
       image: "https://ext.same-assets.com/42986993/273543150.jpeg",
       description:
-        "Day 1:Depart from Rishikesh to Sahastradhara helipad. Fly to Kharsali. Visit Yamunotri Temple. Overnight stay at Kharsali <br> Day 2: Fly to Harsil. Visit Gangotri Temple nestled in the serene Himalayas. Stay overnight at Harsil or Gangotri valley. <br>Day 3: Fly to Kedarnath helipad. Proceed for darshan at the Kedarnath Temple. Overnight stay near Kedarnath.<br>Day 4: Depart to Badrinath. Visit the sacred Badrinath Temple. Attend evening aarti. Overnight stay at Badrinath.<br>Day 5: Local sightseeing at Mana Village (last village of India). Fly back to Sahastradhara helipad, drive to Rishikesh.",
+        "Day 1:Depart from Rishikesh to Sahastradhara helipad. Fly to Kharsali. Visit Yamunotri Temple. Overnight stay at Kharsali  Day 2: Fly to Harsil. Visit Gangotri Temple nestled in the serene Himalayas. Stay overnight at Harsil or Gangotri valley. Day 3: Fly to Kedarnath helipad. Proceed for darshan at the Kedarnath Temple. Overnight stay near Kedarnath.Day 4: Depart to Badrinath. Visit the sacred Badrinath Temple. Attend evening aarti. Overnight stay at Badrinath.<br>Day 5: Local sightseeing at Mana Village (last village of India). Fly back to Sahastradhara helipad, drive to Rishikesh.",
       price: 15999,
       duration: "12 Days / 11 Nights",
       sale: true,
@@ -157,7 +157,7 @@ export default function Home() {
       <footer className="w-full border-t py-6">
         <div className="container flex flex-col items-center justify-center gap-4 px-4 md:px-6">
           <div className="flex items-center gap-2">
-            <Mountains className="h-6 w-6 text-orange-600" />
+            
             <Image
               src="https://github.com/holyyatra/holyatraweb/blob/main/logohy.png?raw=true"
               alt="Holy Yatra Logo"
