@@ -67,7 +67,7 @@ export default function Home() {
               height={50}
               className="h-12 w-auto"
             />
-            <span className="text-xl font-bold">Holy Yatra</span>
+            
           </div>
           <Link
             href="https://wa.me/+918757794679"
@@ -155,7 +155,13 @@ export default function Home() {
         <div className="container flex flex-col items-center justify-center gap-4 px-4 md:px-6">
           <div className="flex items-center gap-2">
             <Mountains className="h-6 w-6 text-orange-600" />
-            <span className="text-xl font-bold">Holy Yatra</span>
+            <Image
+              src="https://github.com/holyyatra/holyatraweb/blob/main/logohy.png?raw=true"
+              alt="Holy Yatra Logo"
+              width={180}
+              height={50}
+              className="h-12 w-auto"
+            />
           </div>
           <p className="text-center text-sm text-gray-500">
             © {new Date().getFullYear()} Holy Yatra. All rights reserved.
