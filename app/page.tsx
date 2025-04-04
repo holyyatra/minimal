@@ -128,7 +128,7 @@ export default function Home() {
                       )}
                       <div className="flex flex-col sm:flex-row gap-4">
                         
-                      <link href="tel:+918757794679">
+                      <link href="tel:+918757794679" target="_blank" rel="noopener noreferrer">
                         <Button variant="outline">Call us</Button>
                       </link>
                         <Link href="https://wa.me/+918757794679" target="_blank" rel="noopener noreferrer">
