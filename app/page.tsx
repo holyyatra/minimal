@@ -13,7 +13,7 @@ export default function Home() {
       title: "Helicopter Yatra - Rishikesh to Kedarnath",
       image: "https://ext.same-assets.com/42986993/4287053519.jpeg",
       description:
-        "Embark on a spiritual helicopter yatra from Rishikesh to Kedarnath. Begin early morning with a drive to the helipad, followed by a scenic 30-40 minute flight over the Garhwal Himalayas. Upon arrival, proceed for darshan at the Kedarnath Temple. After blessings, return by afternoon. The journey offers divine views, comfort, and saves time for devotees."
+        "Embark on a spiritual helicopter yatra from Rishikesh to Kedarnath. Begin early morning with a drive to the helipad, followed by a scenic 30-40 minute flight over the Garhwal Himalayas. Upon arrival, proceed for darshan at the Kedarnath Temple. After blessings, return by afternoon. The journey offers divine views, comfort, and saves time for devotees.",
       price: 6999,
       duration: null,
       sale: false,
