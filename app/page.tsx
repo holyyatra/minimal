@@ -1,4 +1,4 @@
-import Image from "next/image"
+8import Image from "next/image"
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import { Card } from "@/components/ui/card"
@@ -22,7 +22,7 @@ export default function Home() {
       id: 2,
       title: "Haridwar to Kedarnath Yatra",
       image: "https://ext.same-assets.com/42986993/4199696306.jpeg",
-      description: "Day 1: Arrive in Haridwar and drive to Sahastradhara helipad in Dehradun. Overnight stay in Dehradun or near helipad.  Day 2: Early morning helicopter ride to Kedarnath. Have darshan at the Kedarnath Temple. Explore surroundings. Overnight stay near Kedarnath. Day 3: Return by helicopter to Sahastradhara helipad. Drive back to Haridwar with blessings and unforgettable memories.",
+      description: "Day 1: Arrive in Haridwar and drive to Sahastradhara helipad in Dehradun. Overnight stay in Dehradun or near helipad. <br> \n Day 2: Early morning helicopter ride to Kedarnath. Have darshan at the Kedarnath Temple. Explore surroundings. Overnight stay near Kedarnath. Day 3: Return by helicopter to Sahastradhara helipad. Drive back to Haridwar with blessings and unforgettable memories.",
       price: 2899,
       duration: "5 Days / 4 Nights",
       sale: true,
