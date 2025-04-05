@@ -93,7 +93,7 @@ export default function Home() {
                   spiritual fulfillment with comfortable travel arrangements.
                 </p>
                  <div className="flex flex-col items-center justify-center space-y-4 text-center">
-                   <img src="https://github.com/holyyatra/minimal/blob/main/Offer.png"/>
+                   <img src="https://github.com/holyyatra/minimal/blob/main/Offer.png?raw=True"/>
                  </div>
 
               </div>
