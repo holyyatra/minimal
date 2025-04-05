@@ -171,8 +171,8 @@ export default function Home() {
             <Image
               src="https://github.com/holyyatra/holyatraweb/blob/main/logohy.png?raw=true"
               alt="Holy Yatra Logo"
-              width={270}
-              height={75}
+              width={360}
+              height={100}
               className="h-12 w-auto"
             />
           </div>
