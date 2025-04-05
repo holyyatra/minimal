@@ -166,7 +166,7 @@ export default function Home() {
         <h2 className="text-2xl font-semibold text-center mb-4">Need Help? Check Our FAQs</h2>
         <FaqAccordion />
       </section>
-            
+            <br></br>
 
             <Image
               src="https://github.com/holyyatra/holyatraweb/blob/main/logohy.png?raw=true"
