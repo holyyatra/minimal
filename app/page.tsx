@@ -93,7 +93,7 @@ export default function Home() {
                   spiritual fulfillment with comfortable travel arrangements.
                 </p>
                  
-                 div>
+                 <div>
     
             <Image
               src="https://github.com/holyyatra/minimal/blob/main/Offer.png?raw=true"
