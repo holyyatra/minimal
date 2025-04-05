@@ -93,15 +93,6 @@ export default function Home() {
                   spiritual fulfillment with comfortable travel arrangements.
                 </p>
                  
-                 <div>
-    
-            <Image
-              src="https://github.com/holyyatra/minimal/blob/main/Offer.png?raw=true"
-              alt="offer"
-              
-              className="h-12 w-auto"
-            />
-             </div>
                  
 
               </div>
@@ -170,41 +161,8 @@ export default function Home() {
         <div className="container flex flex-col items-center justify-center gap-4 px-4 md:px-6">
           <div className="flex items-center gap-2">
             
-            <Image
-              src="https://github.com/holyyatra/holyatraweb/blob/main/logohy.png?raw=true"
-              alt="Holy Yatra Logo"
-              width={270}
-              height={75}
-              className="h-12 w-auto"
-            />
-<div class="accordion">
-    <div class="accordion-item">
-      <div class="accordion-header">FAQs</div>
-      <div class="accordion-content">
-        <p><strong>Q1:</strong> How can I book a helicopter yatra?<br>
-        <strong>A:</strong> You can book via our website or contact us directly for assistance.</p>
-        <br>
-        <p><strong>Q2:</strong> What documents are required?<br>
-        <strong>A:</strong> Valid ID proof and booking confirmation are mandatory.</p>
-      </div>
-    </div>
-    <div class="accordion-item">
-      <div class="accordion-header">Contact Information</div>
-      <div class="accordion-content">
-        <p><strong>Phone:</strong> +91-9876543210</p>
-        <p><strong>Email:</strong> support@yatraexample.com</p>
-        <p><strong>Address:</strong> Rishikesh, Uttarakhand, India</p>
-      </div>
-    </div>
-    <div class="accordion-item">
-      <div class="accordion-header">Connect on WhatsApp</div>
-      <div class="accordion-content">
-        <a href="https://wa.me/919876543210" target="_blank" class="whatsapp-btn">
-          Chat on WhatsApp
-        </a>
-      </div>
-    </div>
-  </div>
+            
+
             <Image
               src="https://github.com/holyyatra/holyatraweb/blob/main/logohy.png?raw=true"
               alt="Holy Yatra Logo"
