@@ -5,6 +5,7 @@ import { Card } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { MountainIcon as Mountains } from "lucide-react"
 import { ImageCarousel } from "@/components/image-carousel"
+import FaqAccordion from '@/components/FaqAccordion'; // adjust the path based on your folder structure
 
 export default function Home() {
   const packages = [
@@ -161,7 +162,10 @@ export default function Home() {
       <footer className="w-full border-t py-6">
         <div className="container flex flex-col items-center justify-center gap-4 px-4 md:px-6">
           <div className="flex items-center gap-2">
-            
+            <section id="faq" className="my-10">
+        <h2 className="text-2xl font-semibold text-center mb-4">Need Help? Check Our FAQs</h2>
+        <FaqAccordion />
+      </section>
             
 
             <Image
