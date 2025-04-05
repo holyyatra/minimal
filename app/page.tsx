@@ -92,8 +92,9 @@ export default function Home() {
                   in the Himalayas. With years of experience, we offer meticulously planned packages that combine
                   spiritual fulfillment with comfortable travel arrangements.
                 </p>
-                 
-                 
+                 <div className="flex flex-col items-center justify-center space-y-4 text-center">
+                   <img src="https://github.com/holyyatra/minimal/blob/main/Offer.png"/>
+                 </div>
 
               </div>
             </div>
