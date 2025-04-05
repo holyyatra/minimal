@@ -31,8 +31,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: npm install @radix-ui/react-icons
-        run: npm install @radix-ui/react-icons
+
       - name: Detect package manager
         id: detect-package-manager
         run: |
