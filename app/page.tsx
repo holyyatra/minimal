@@ -158,14 +158,15 @@ export default function Home() {
             </div>
           </div>
         </section>
+        <section id="faq" className="my-auto">
+        <h2 className="text-2xl font-semibold text-center mb-4">Need Help? Check Our FAQs</h2>
+        <FaqAccordion />
+      </section>
       </main>
       <footer className="w-full border-t py-6">
         <div className="container flex flex-col items-center justify-center gap-4 px-4 md:px-6">
           <div className="flex items-center gap-2">
-            <section id="faq" className="my-10">
-        <h2 className="text-2xl font-semibold text-center mb-4">Need Help? Check Our FAQs</h2>
-        <FaqAccordion />
-      </section>
+            
             <br></br>
 
             <Image
