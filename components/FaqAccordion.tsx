@@ -38,7 +38,7 @@ const FaqAccordion: React.FC = () => {
           </Accordion.Trigger>
         </Accordion.Header>
         <Accordion.Content className="p-4 bg-white text-gray-700">
-          <p><strong>Phone:</strong> +91-9876543210</p>
+          <p><strong>Phone:</strong> +918757794679</p>
           <p><strong>Email:</strong> support@yatraexample.com</p>
           <p><strong>Address:</strong> Rishikesh, Uttarakhand, India</p>
         </Accordion.Content>
@@ -54,7 +54,7 @@ const FaqAccordion: React.FC = () => {
         </Accordion.Header>
         <Accordion.Content className="p-4 bg-white text-gray-700">
           <a
-            href="https://wa.me/919876543210"
+            href="https://wa.me/+918757794679"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block mt-2 bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded-full"
